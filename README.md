@@ -1,10 +1,10 @@
 # a-design-and-psychology-principles-in-marketing-whitepaper
-This is a page with a whitepaper aimed to boost your conversion rates using design and psychology.
+This is a page with a whitepaper aimed to boost your conversion rates through design and psychology.
 
 Hi again!
 
 <b>Why this whitepaper is here?</b></br>
-As part of the bootcamp in marketing analytics we had one module on HTML/CSS. To practice few lines of code we needed to set up a cookbook that would contain at least 2 pages. You can check some tasty stuff following the link below.
+As part of the bootcamp in marketing analytics we had one module on design principles and psychological concepts used in marketing. As an outcome together with 2 colelagues we created a comprehensive document that covers main techniques ana provides practical examples you might use in your own marketing strategies.
 
 <b>Link to the whitepaper:</b></br>
 https://github.com/salatmehl/a-design-and-psychology-principles-in-marketing-whitepaper/blob/main/Whitepaper.pdf
