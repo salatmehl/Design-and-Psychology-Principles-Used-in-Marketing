@@ -1,5 +1,5 @@
 # a-design-and-psychology-principles-in-marketing-whitepaper
-This is a page with a whitepaper aimed to boost your conversion rates through design and psychology.
+This is a page with a whitepaper aimed to boost your conversion rates using design and psychology techniques.
 
 Hi again!
 
